@@ -6,4 +6,4 @@
 
 This project is about... (description)
 
-![screenshot of website](screenshot.png)
+![screenshot of website](../screenshot.png)
