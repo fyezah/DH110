@@ -1,6 +1,6 @@
 # DH110-22F
 
-## Project Name
+## Responsible Consumption and Production
 ### Faizah Mohamed
 #### DH110 Fall 2022
 
