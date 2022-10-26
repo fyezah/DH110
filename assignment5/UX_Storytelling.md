@@ -63,4 +63,6 @@ By combining the food waste minimizing feature along with the composting service
 
 **Journey Map**
 
+<img width="827" alt="Screen Shot 2022-10-26 at 7 52 36 AM" src="https://user-images.githubusercontent.com/100739150/198060011-57c1b03a-74d7-41e6-af53-f9350ca2fe15.png">
+
 
