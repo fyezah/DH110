@@ -43,11 +43,15 @@ The bigger issue I found here was that the user thought clicking on the buttons 
 <img width="664" alt="Screen Shot 2022-11-09 at 5 18 51 AM" src="https://user-images.githubusercontent.com/100739150/200840662-f10ead0a-999e-44d3-8dd5-ce3d0f59ac8b.png">
 
 ## Final Design System!
+<img width="693" alt="Screen Shot 2022-11-09 at 7 42 13 AM" src="https://user-images.githubusercontent.com/100739150/200874849-64fc03a8-a7f9-450d-bfd0-c1a52cc0ad0c.png">
 
 Summary of design system: 
-Typeface family + size
-Color scheme: background, primary (default text), focus (ex. button)
-Layout grid + spacing
+- Typeface family: Nunito 
+<img width="732" alt="Screen Shot 2022-11-09 at 7 35 53 AM" src="https://user-images.githubusercontent.com/100739150/200873306-8b5d095e-e858-4e07-ad6a-2cf677d17f85.png">
+
+- Color scheme: dark mode
+- Shapes: 4px rounded
+- Layout grid + spacing: 7 rows + 2 columns, 50px margin
 
 
 
