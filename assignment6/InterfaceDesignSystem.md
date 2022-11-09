@@ -46,12 +46,19 @@ The bigger issue I found here was that the user thought clicking on the buttons 
 <img width="693" alt="Screen Shot 2022-11-09 at 7 42 13 AM" src="https://user-images.githubusercontent.com/100739150/200874849-64fc03a8-a7f9-450d-bfd0-c1a52cc0ad0c.png">
 
 Summary of design system: 
+- Layout grid + spacing: 7 rows + 2 columns, 50px margin
 - Typeface family: Nunito 
 <img width="732" alt="Screen Shot 2022-11-09 at 7 35 53 AM" src="https://user-images.githubusercontent.com/100739150/200873306-8b5d095e-e858-4e07-ad6a-2cf677d17f85.png">
 
-- Color scheme: dark mode
-- Shapes: 4px rounded
-- Layout grid + spacing: 7 rows + 2 columns, 50px margin
+- Color scheme: dark mode, primary text is white, button labels black/dark green
+- Shapes: 4px rounded with unique button shape
 
+I chose a layout of 2 columns to split the screen into half for individuals and half for non-profits. 7 rows worked well to neatly segment the different components I have on my page. I also wanted a decent margin around the whole page so 50px seemed appropriate. 
 
+During my variation creation, I was split between choosing Nunito and Hind because both seemed professional yet welcoming. Josefin Sans felt a little difficult on the eyes, especially with regards to letter spacing and such. I ultimately decided on Hind, but after impression testing, I switched the final design to Nunito as the user suggested a change in font. I also changed the button arrows on the user's suggestion to more clearly signal to users that the button will lead to a different page. 
 
+As for color scheme, dark mode seemed to produce a more cohesive, finished look for the page. The addition of light-colored components like the testimonials box and navigation bar at the top, with dark text inside, was more appealing and helped the page look less flat and 2-dimensional--which was a problem I definitely felt with light-mode. 
+
+As for shapes, I chose 4px rounded with the unique because I didn't want something too linear and professional-looking, as I want this page to feel approachable to users of all backgrounds. But at the same time, I didn't want to use too round shapes because that might end up looking like an app interface and also not as professional. My choice seemed to strike a good balance between the two. 
+
+As for the positioning of the testimonials box and potential need for extra text guiding users on where to click and where that will take them, I didn't make any changes yet because I want to gather feedback from other users to see if this is actually a problem or just a unique opinion of the user I happened to test with. 
