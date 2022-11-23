@@ -10,10 +10,13 @@ This project will be redesigning the FoodCycle LA website to add a new food comp
 1. Signing up to utilize FoodCycle LA's food composting service
 2. Using the food pantry locate to find pantries/kitchens near the user that meet any required conditions
 
-### Below is my wireflow with graphic design: 
+## Prototype
+
+### Wireflow with graphic design: 
 <img width="583" alt="Screen Shot 2022-11-16 at 7 56 57 AM" src="https://user-images.githubusercontent.com/100739150/202229836-8be197f8-6846-4d54-947a-17ce204ae3b3.png">
 
-### Here is the [interactive prototype](https://www.figma.com/proto/Cs00Dzw6JiJX6UO8a5ddJL/High-Fidelity-Protoype?node-id=17%3A81&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=17%3A81)
+### High Fidelity Interactive Prototype
+[Figma prototype](https://www.figma.com/proto/Cs00Dzw6JiJX6UO8a5ddJL/High-Fidelity-Protoype?node-id=17%3A81&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=17%3A81)
 
 ### Cognitive Walkthrough
 
