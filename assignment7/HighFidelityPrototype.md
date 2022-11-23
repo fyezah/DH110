@@ -22,6 +22,7 @@ This project will be redesigning the FoodCycle LA website to add a new food comp
 
 ### High Fidelity Interactive Prototype
 [Figma prototype - version 1](https://www.figma.com/proto/Cs00Dzw6JiJX6UO8a5ddJL/High-Fidelity-Protoype?node-id=17%3A81&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=17%3A81)
+
 [Figma prototype - version 2](https://www.figma.com/proto/nXs0OxXiRg4UP41xottHVp/High-Fidelity-Protoype---v2?node-id=17%3A97&starting-point-node-id=17%3A81)
 
 ### Cognitive Walkthrough
